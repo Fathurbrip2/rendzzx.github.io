@@ -1,0 +1,150 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #f4fbf4;
+	font-family: arial;
+}
+.container{
+	width: 100%;
+	height: 100%;
+	background-color: #f4fbf4;
+}
+.header{
+	height: 200px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f4fbf4;
+}
+p{
+	margin-top: 25px;
+	margin-left: 20px;
+	font-size: 45px;
+	color:#009afc;
+}
+.terimakasih{
+	padding-top: 250px;
+	text-align: center;
+	font-size: 75px;
+	color:#009afc;
+}
+.b{
+	margin-top: 23px;
+	margin-left: 20px;
+	font-size: 35px;
+	color:#fdca21;
+}
+.web{
+	margin-top: -35px;
+	margin-left: 20px;
+	font-size: 70px;
+	color:#cfa569;
+}
+.periode{
+	margin-top: 5px;
+	margin-left: 20px;
+	font-size: 30px;
+	color:#009afc;
+}
+.kiri{
+	margin-top: 25px;
+	margin-left: 20px; 
+	width: 535px;
+	height: 150px;
+	background-color: #f4fbf4;;
+	float: left;
+}
+.logosatu{
+	width: 190px;
+	height: 190px;
+	float: left;
+	margin-left: 32px;
+	margin-top: 5px; 
+	background-image: url("../img/logo.png");
+	background-repeat: no-repeat;
+	background-size: 180px;
+}
+
+.kanan{
+	margin-top: 25px;
+	margin-left: 200px; 
+	width: 300px;
+	height: 150px;
+	background-color: #f4fbf4;
+	float: left;
+}
+.isi{
+	height: 555px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f4fbf4;
+	
+}
+h4{
+	padding-top: 525px;
+	font-size: 15px;
+}
+h5{
+	font-size: 15px;
+	text-align: right;
+	padding-top: 190px;
+	padding-right: 60px;
+}
+h2{
+	color:#010533;
+	padding-top: 8px;
+	font-size: 	20px;
+}
+.selamatdatang{
+	text-align: center;
+	margin-top: 8px;
+	background-color: #f4fbf4;
+	width: 400px;
+	height: 2px;
+	margin-left: 480px;
+}
+.pilih{
+	width: 100%;
+	height: 555px;
+	background-image: url("../img/bg.png");
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	background-position: 0px -10px;
+}
+.plhsatu{
+	margin-left: 200px;
+	margin-top: 65px;
+	width: 420px;
+	height: 480px;
+	background-size: 450px;
+	background-image: url("../img/nosatu.png");
+	float: left;
+}
+
+.plhdua{
+	margin-left: 100px;
+	margin-top: 59.5px;
+	width: 440px;
+	height: 480px;
+	background-image: url("../img/nodua.png");
+	background-size: 480px;
+	float: left;
+}
+.copy-right{
+	text-align: center;
+	font-size: 12px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.masuk{
+	margin-left: 554px;
+	margin-top: 200px;
+	width: 250px;
+	height: 140px;
+	background-color: #009afc;
+	color: #fff;
+	font-size: 40px;
+}
